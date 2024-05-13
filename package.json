@@ -1,0 +1,32 @@
+{
+  "name": "@apiverve/profanityfilter",
+  "version": "1.0.0",
+  "description": "Profanity Filter is a simple tool for filtering out profanity words from a text. It returns the text with the profanity words replaced by asterisks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apiverve/profanityfilter-API.git"
+  },
+  "keywords": [
+    "profanity filter"," profanity filter api"," profanity filter tool"," profanity filter software"," profanity filter service"," profanity filter library"," profanity filter sdk"," profanity filter code"," profanity filter script"," profanity filter program"," profanity filter application"," profanity filter app"," profanity filter utility"," profanity filter helper"," profanity filter helper tool"," profanity filter helper software"," profanity filter helper service"," profanity filter helper library"," profanity filter helper sdk"," profanity filter helper code"," profanity filter helper script"," profanity filter helper program"," profanity filter helper application"," profanity filter helper app"," profanity filter helper tool"," profanity filter helper utility"," profanity filter helper"
+  ],
+  "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apiverve/profanityfilter-API/issues"
+  },
+  "homepage": "https://github.com/apiverve/profanityfilter-API",
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "chai": "^3.4.1",
+    "dotenv": "^2.0.0"
+  },
+  "dependencies": {
+    "node-fetch": "3.3.2",
+    "promise": "^7.1.1",
+    "request": "^2.69.0"
+  }
+}
