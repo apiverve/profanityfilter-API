@@ -1,7 +1,7 @@
 {
   "name": "@apiverve/profanityfilter",
-  "version": "1.0.2",
-  "description": "Profanity Filter is a simple tool for filtering out profanity words from a text. It returns the text with the profanity words replaced by asterisks.",
+  "version": "1.0.3",
+  "description": "Profanity Filter is a simple tool for filtering out profanity words from a text. It returns the text with the profanity words replaced by placeholders.",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
