@@ -1,6 +1,6 @@
 {
   "name": "@apiverve/profanityfilter",
-  "version": "1.0.3",
+  "version": "1.1.4",
   "description": "Profanity Filter is a simple tool for filtering out profanity words from a text. It returns the text with the profanity words replaced by placeholders.",
   "main": "index.js",
   "scripts": {
@@ -18,15 +18,15 @@
   "bugs": {
     "url": "https://github.com/apiverve/profanityfilter-API/issues"
   },
-  "homepage": "https://github.com/apiverve/profanityfilter-API",
+  "homepage": "https://apiverve.com/marketplace/api/profanityfilter",
   "devDependencies": {
-    "mocha": "^10.4.0",
+    "mocha": "^10.7.3",
     "chai": "^5.1.1",
     "dotenv": "^16.4.5"
   },
   "dependencies": {
-    "node-fetch": "3.3.2",
+    "node-fetch": "^3.3.2",
     "promise": "^8.3.0",
-    "axios": "1.6.8"
+    "axios": "1.7.4"
   }
 }
