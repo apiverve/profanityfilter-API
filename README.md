@@ -77,7 +77,8 @@ api.execute(query, function (error, data) {
     "mask": "*",
     "trimmed": false,
     "profaneWords": 2
-  }
+  },
+  "code": 200
 }
 ```
 
